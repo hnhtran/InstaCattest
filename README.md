@@ -14,7 +14,7 @@ As a user I want create cute posts of my cats and be able to share/see other peo
 * HTML
 
 ## Wireframes
-![Wireframe](https://imgur.com/a/RL62k6V)
+![Wireframe](./images/wireframe.png)
 
 ## ERD
-![ERD](https://imgur.com/a/oipmc9u)
+![ERD](./images/erd.png)
