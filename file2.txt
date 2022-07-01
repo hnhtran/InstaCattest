@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 sample text
-=======
-hhghgjhjh
->>>>>>> fb092583ff2a72319b6e74007f105ffc71dd3115
