@@ -17,4 +17,4 @@ As a user I want create cute posts of my cats and be able to share/see other peo
 ![Wireframe](./images/wireframe.png)
 
 ## ERD
-![ERD](./images/wireframe.png)
+![ERD](./images/erd.png)
